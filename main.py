@@ -11,6 +11,9 @@ while True:
     elif age == 100: 
         print("experienced")
 
+    elif age > 100 < 150: 
+        print("very experienced")
+    
     elif age == 0:
         print("baby")
     
